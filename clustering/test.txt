@@ -1,0 +1,76 @@
+Total: 34
+--------------------Cluster 1--------------------
+org.mybatis.jpetstore.web.actions.CatalogActionBean org.mybatis.jpetstore.service.CatalogService org.mybatis.jpetstore.domain.Product 
+--------------------Cluster 2--------------------
+org.mybatis.jpetstore.web.actions.CatalogActionBean org.mybatis.jpetstore.service.CatalogService org.mybatis.jpetstore.domain.Category 
+--------------------Cluster 3--------------------
+org.mybatis.jpetstore.web.actions.CatalogActionBean org.mybatis.jpetstore.service.CatalogService org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.Item org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 4--------------------
+org.mybatis.jpetstore.web.actions.CatalogActionBean org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.Item org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 5--------------------
+java.lang.String" org.mybatis.jpetstore.web.actions.AccountActionBean org.mybatis.jpetstore.domain.Account 
+--------------------Cluster 6--------------------
+java.lang.String" org.mybatis.jpetstore.web.actions.AccountActionBean org.mybatis.jpetstore.service.AccountService org.mybatis.jpetstore.domain.Account 
+--------------------Cluster 7--------------------
+int" org.mybatis.jpetstore.service.OrderService org.mybatis.jpetstore.domain.Sequence 
+--------------------Cluster 8--------------------
+int" org.mybatis.jpetstore.service.OrderService org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 9--------------------
+int" org.mybatis.jpetstore.domain.LineItem org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.Item org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.service.OrderService org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 10--------------------
+int" org.mybatis.jpetstore.web.actions.CartActionBean org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Item 
+--------------------Cluster 11--------------------
+int" org.mybatis.jpetstore.web.actions.CartActionBean org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 12--------------------
+int" org.mybatis.jpetstore.web.actions.CartActionBean org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Item org.mybatis.jpetstore.domain.Cart 
+--------------------Cluster 13--------------------
+int" org.mybatis.jpetstore.web.actions.CartActionBean org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 14--------------------
+int org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.Item org.mybatis.jpetstore.domain.CartItem 
+--------------------Cluster 15--------------------
+int org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 16--------------------
+boolean" org.mybatis.jpetstore.web.actions.CartActionBean org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Item 
+--------------------Cluster 17--------------------
+boolean" org.mybatis.jpetstore.web.actions.CartActionBean org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 18--------------------
+boolean" org.mybatis.jpetstore.web.actions.CartActionBean org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Item org.mybatis.jpetstore.domain.Cart 
+--------------------Cluster 19--------------------
+boolean" org.mybatis.jpetstore.web.actions.CartActionBean org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 20--------------------
+ org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Item 
+--------------------Cluster 21--------------------
+ org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 22--------------------
+ org.mybatis.jpetstore.domain.Account org.mybatis.jpetstore.service.AccountService 
+--------------------Cluster 23--------------------
+boolean org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Item 
+--------------------Cluster 24--------------------
+boolean org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 25--------------------
+boolean org.mybatis.jpetstore.service.AccountService org.mybatis.jpetstore.domain.Account 
+--------------------Cluster 26--------------------
+org.mybatis.jpetstore.domain.Cart" org.mybatis.jpetstore.web.actions.OrderActionBean org.mybatis.jpetstore.service.OrderService org.mybatis.jpetstore.domain.Sequence 
+--------------------Cluster 27--------------------
+org.mybatis.jpetstore.domain.Cart" org.mybatis.jpetstore.web.actions.OrderActionBean org.mybatis.jpetstore.service.OrderService org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 28--------------------
+org.mybatis.jpetstore.web.actions.OrderActionBean org.mybatis.jpetstore.domain.LineItem org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.Cart" org.mybatis.jpetstore.domain.Item org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.service.OrderService org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 29--------------------
+org.mybatis.jpetstore.web.actions.OrderActionBean org.mybatis.jpetstore.web.actions.CartActionBean org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.Cart" org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Item 
+--------------------Cluster 30--------------------
+org.mybatis.jpetstore.web.actions.OrderActionBean org.mybatis.jpetstore.web.actions.CartActionBean org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.Cart" org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 31--------------------
+org.mybatis.jpetstore.web.actions.OrderActionBean org.mybatis.jpetstore.web.actions.CartActionBean org.mybatis.jpetstore.domain.Cart" org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Item org.mybatis.jpetstore.domain.Cart 
+--------------------Cluster 32--------------------
+org.mybatis.jpetstore.web.actions.OrderActionBean org.mybatis.jpetstore.web.actions.CartActionBean org.mybatis.jpetstore.domain.Cart" org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 33--------------------
+org.mybatis.jpetstore.domain.CartItem" org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 34--------------------
+java.lang.String org.mybatis.jpetstore.service.AccountService org.mybatis.jpetstore.domain.Account 
+Total: 3
+--------------------Cluster 1--------------------
+org.mybatis.jpetstore.web.actions.CatalogActionBean org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.Item org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Order 
+--------------------Cluster 2--------------------
+org.mybatis.jpetstore.web.actions.CatalogActionBean org.mybatis.jpetstore.service.CatalogService org.mybatis.jpetstore.domain.Category 
+--------------------Cluster 3--------------------
+org.mybatis.jpetstore.web.actions.CatalogActionBean org.mybatis.jpetstore.service.CatalogService org.mybatis.jpetstore.domain.Cart org.mybatis.jpetstore.domain.Item org.mybatis.jpetstore.domain.CartItem org.mybatis.jpetstore.domain.Order 
